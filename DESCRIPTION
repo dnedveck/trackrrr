@@ -1,0 +1,14 @@
+Package: trackrrr
+Title: Tracking projects with R
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Derek",
+           family = "Nedveck",
+           role = c("aut", "cre"),
+           email = "dnedveck@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package contains helper functions to work with a project tracking 
+  system laid out in a folder structure, with markdown worklogs. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
