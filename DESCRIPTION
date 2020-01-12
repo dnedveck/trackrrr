@@ -12,3 +12,5 @@ Description: This package contains helper functions to work with a project track
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/dnedveck/trackrrr
+BugReports: https://github.com/dnedveck/trackrrr/issues
