@@ -37,7 +37,7 @@ Within each project there's a `worklog.md` that contains a `# ToDo` section, wit
 
 worklog.md
 
-``` {markdown}
+```` {markdown}
 # ToDo
 
 - [x] create package and push to GitHub
@@ -70,7 +70,7 @@ Clarity. Since text is the universal interface, and I want the system to be as l
 
 Going through my yearly review I realized that I'm doing a fairly poor job of working on important but non-urgent things. This is coming from a lack of easy project overviews. I'll spend some time defining the needs I have and exploring the solutions that can meet those needs. 
 
-```
+````
 
 ## Example
 
